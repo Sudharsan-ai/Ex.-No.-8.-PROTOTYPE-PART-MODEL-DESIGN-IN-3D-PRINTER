@@ -49,7 +49,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e7c788d-608a-4725-aa20-dce815465652" />
 
 ### Name:SUDHARSAN S
-### Register Number:21224040334
+### Register Number:212224040334
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
